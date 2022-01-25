@@ -5,7 +5,6 @@ Engineering student: First year master at CPE Lyon.
 
 ### Contact
 <br/>
-**mehdibenhadjali@gmail.com**
 
 **mariembensalah7@gmail.com**
 <br/>
