@@ -1,7 +1,7 @@
 ## Hi there, I'm Mariem 👋
 Engineering student: First year master at CPE Lyon.
 
-- ⚡ Looking for one-year internship starting from july 2022.
+⚡ Looking for one-year internship starting from july 2022.
 
 ### Contact
 <br/>
