@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Mariem 👋
+Engineering student: First year master at CPE Lyon.
 
-<!--
-**Mariem-Ben-Salah/Mariem-Ben-Salah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Looking for one-year internship starting from july 2022.
 
-Here are some ideas to get you started:
+### Contact
+<br/>
+**mariembensalah7@gmail.com**
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mariem.ben.salah)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mariem-ben-salah-71a073185/)
