@@ -1,7 +1,7 @@
 ## Hi there, I'm Mariem 👋
 Engineering student: First-year master's student at CPE Lyon.
 
-⚡ Looking for one-year internship starting from july 2022.
+⚡ Systen Ingineer Intern At TxGroup SA .
 
 ### Contact
 
