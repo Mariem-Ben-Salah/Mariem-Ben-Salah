@@ -1,7 +1,7 @@
 ## Hi there, I'm Mariem 👋
 Engineering student: First-year master's student at CPE Lyon.
 
-⚡ Systen Ingineer Intern At TxGroup SA .
+⚡ Systen Ingineer Intern At TXGroup SA .
 
 ### Contact
 
