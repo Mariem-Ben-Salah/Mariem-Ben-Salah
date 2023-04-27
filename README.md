@@ -1,6 +1,6 @@
 ## Hi there, I'm Mariem 👋
 
-👩‍🎓 I'm a first-year master's student in Engineering at CPE Lyon
+👩‍🎓 I'm a first-year master's student in Engineering at CPE Lyon <br>
 ⚡ Currently working as a System Engineer Intern at TXGroup SA .
 
 
@@ -26,7 +26,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
 
 ## Contact
 
