@@ -27,8 +27,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-[![Mariem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-Ben-Salah)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariem-Ben-Salah&layout=compact)]
+![Mariem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariem-Ben-Salah)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariem-Ben-Salah&layout=compact)
 
 
 ## Contact
