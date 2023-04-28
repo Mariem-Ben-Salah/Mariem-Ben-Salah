@@ -1,6 +1,6 @@
 ## Hi there, I'm Mariem 👋
 
-👩‍🎓 I'm a first-year master's student in Engineering at CPE Lyon <br>
+👩‍🎓 I'm a first-year master's engineering student at CPE Lyon <br>
 ⚡ Currently working as a System Engineer Intern at TXGroup SA .
 
 ## Contact
