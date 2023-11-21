@@ -1,7 +1,7 @@
 ## Hi there, I'm Mariem 👋
 
-👩‍🎓 I'm a first-year master's engineering student at CPE Lyon <br>
-⚡ Currently working as a System Engineer Intern at TXGroup SA .
+👩‍🎓 I'm a second-year master's engineering student at CPE Lyon and BHT Berlin <br>
+⚡ Currently a Data science Student .
 
 ## Contact
 
